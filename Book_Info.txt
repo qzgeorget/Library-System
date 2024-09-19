@@ -1,0 +1,25 @@
+ID Number,Genre,Book Name,Author,Purchase Price $,Purchase Date
+1,Fantasy,The Holy Bible,Moses,10,1/8/2010
+2,Non-fiction,The Communist Manifesto,Karl Marx,20,1/8/2014
+3,Sci-fi,1984,George Orwell,5,1/8/2010
+4,Self-help,The 48 Laws of Power,Robert Greene,15,15/10/2003
+5,Historical,The Three Musketeers,Alexandre Dumas,10,1/8/2014
+6,Allegory,Lord of the Flies,William Golding,5,1/8/2008
+7,Sci-fi,Fahrenheit 451,Ray Bradbury,10,15/10/2003
+8,Gothic,The Picture of Dorian Gray,Oscar Wilde,7,1/8/2014
+9,Science,A Brief History of Time,Stephen Hawking,20,26/12/2022
+10,Autobiography,When Breath Becomes Air,Paul Kalanithi,20,26/12/2022
+11,Autobiography,On Writing: A Memoir of the Craft,Stephen King,15,1/8/2014
+12,Horror,It,Stephen King,10,1/1/2008
+13,Fantasy,Percy Jackson & the Olympians: The Lightning Thief,Rick Riordan,10,1/8/2008
+14,Fantasy,Percy Jackson & the Olympians: The Sea of Monsters,Rick Riordan,10,1/8/2008
+15,Fantasy,Percy Jackson & the Olympians: The Titan's Curse,Rick Riordan,10,1/8/2008
+16,Fantasy,Percy Jackson & the Olympians: The Battle of the Labyrinth,Rick Riordan,10,1/8/2008
+17,Fantasy,Percy Jackson & the Olympians: The Last Olympian,Rick Riordan,10,1/8/2008
+18,Textbook,Python Programming : An Introduction to Computer Science,John M. Zelle,25,1/8/2014
+19,Textbook,Beginning Programming with Python For Dummies,John Mueller,20,10/15/2003
+20,Adventure,The Call of the Wild,Jack London,15,26/12/2022
+21,Gothic,The Picture of Dorian Gray,Oscar Wilde,7,1/8/2014
+22,Science,A Brief History of Time,Stephen Hawking,20,26/12/2022
+23,Autobiography,When Breath Becomes Air,Paul Kalanithi,20,26/12/2022
+24,Autobiography,On Writing: A Memoir of the Craft,Stephen King,15,1/8/2014
